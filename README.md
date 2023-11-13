@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World, I'm Michael! 🌎
+I'm a May 2023 graduate with a BA in Computer Science and minor in Data Science, looking for hire in a
+Software Developer position.
 
-<!--
-**michaelHarperCode/michaelHarperCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+While you're here, you can look at my <a href="https://github.com/michaelHarperCode?tab=repositories">  <b>Repositories</b></a>! You can see my projects there.
 
-Here are some ideas to get you started:
+Need to reach me? Find me on <a href="https://www.linkedin.com/in/michael-harper-bb4026249/"><b>Linkedin</b></a> or <a href="mailto:mharper1717@gmail.com"><b>send me an email!</b></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details><summary>Other things about me</summary>
+  - <b>⌨️ Programming languages experience</b>: C, Java, Python, R<br>
+  - <b>⌨️ Web technologies experience</b>: HTML, PHP, JavaScript, CSS<br>
+  - <b>📚 Coursework in</b>: Algorithms & Data Structures, Databases, Networking & Web Development, Software Development, Operating Systems<br>
+</details>
+
